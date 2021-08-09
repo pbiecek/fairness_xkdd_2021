@@ -4,6 +4,8 @@ Tutorial at 3rd Workshop [eXplaining Knowledge Discovery in Data Mining](https:/
 
 by [Przemysław Biecek](https://github.com/pbiecek)
 
+Link to this page: https://tinyurl.com/xkdd-fairness
+
 ## Part 1
 
 
