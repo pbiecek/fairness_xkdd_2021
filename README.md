@@ -10,6 +10,8 @@ Slides: [fairness_xkdd_2021.pdf](https://github.com/pbiecek/fairness_xkdd_2021/b
 
 Sources for fairmodels and arena: [fairness_with_fairmodels.R](https://github.com/pbiecek/fairness_xkdd_2021/blob/main/fairness_with_fairmodels.R)
 
+Video: https://youtu.be/7ZAvVC5gDHk
+
 
 ## Part 1
 
