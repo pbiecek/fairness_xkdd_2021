@@ -6,6 +6,8 @@ by [Przemysław Biecek](https://github.com/pbiecek)
 
 Link to this page: https://tinyurl.com/xkdd-fairness
 
+Slides: fairness_xkdd_2021.pdf
+
 ## Part 1
 
 
@@ -236,11 +238,8 @@ There is a true risk of 'fairwashing', which is not how we shall think about fai
 I hope you are warned.
 So let's see the most common fairness measures.
 
-## Part 2
+## Part 3
 
-
-
-
-
+Sources for fairmodels: fairness_with_fairmodels.R
 
 
