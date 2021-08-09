@@ -10,14 +10,6 @@ Slides: fairness_xkdd_2021.pdf
 
 ## Part 1
 
-
-Explaining and Checking Fairness for Predictive Models
-Przemysław Biecek
-eXplaining Knowledge Discovery in Data Mining
-3rd Workshop 
-
----
-
 Good morning.
 My name is Przemysław Biecek, and today I will give a tutorial related to fairness in machine learning.
 I am a leader of the MI2 Data Lab at Warsaw University of Technology. My group works on methods and tools and good practices for explanatory model analysis. In the last part of the tutorial, I will show the fairmodels package that we created.
